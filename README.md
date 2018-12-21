@@ -5,5 +5,5 @@ You just need to install anaconda which helps you to open the jupyter notebook f
 
 Be a Data science enthusiast!
 
-regards
+Regards
 Pawankalyan
